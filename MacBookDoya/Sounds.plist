@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fileName</key>
+		<string>doya03.wav</string>
+		<key>title</key>
+		<string>フッ ドヤ</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>doya01.wav</string>
+		<key>title</key>
+		<string>ドォヤァ</string>
+	</dict>
+    <dict>
+		<key>fileName</key>
+		<string>doya.wav</string>
+		<key>title</key>
+		<string>ドヤァ</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>mba01.wav</string>
+		<key>title</key>
+		<string>MacBookAir</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>mbp01.wav</string>
+		<key>title</key>
+		<string>MacBookPro</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>mba02.wav</string>
+		<key>title</key>
+		<string>MacBookAir2</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>mbd01.wav</string>
+		<key>title</key>
+		<string>MacBookDoya</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>mtg.wav</string>
+		<key>title</key>
+		<string>MTG</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>windows.wav</string>
+		<key>title</key>
+		<string>Windows</string>
+	</dict>
+
+</array>
+</plist>

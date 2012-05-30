@@ -1,0 +1,386 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BE6646FC142300970041A52A /* doya01.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646EF142300970041A52A /* doya01.wav */; };
+		BE6646FD142300970041A52A /* doya02.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F0142300970041A52A /* doya02.wav */; };
+		BE6646FE142300970041A52A /* doya03.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F1142300970041A52A /* doya03.wav */; };
+		BE6646FF142300970041A52A /* jouho.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F2142300970041A52A /* jouho.wav */; };
+		BE664700142300970041A52A /* mba01.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F3142300970041A52A /* mba01.wav */; };
+		BE664701142300970041A52A /* mba02.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F4142300970041A52A /* mba02.wav */; };
+		BE664702142300970041A52A /* mbd01.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F5142300970041A52A /* mbd01.wav */; };
+		BE664703142300970041A52A /* mbd02.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F6142300970041A52A /* mbd02.wav */; };
+		BE664704142300970041A52A /* mbd03.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F7142300970041A52A /* mbd03.wav */; };
+		BE664705142300970041A52A /* mbd04.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F8142300970041A52A /* mbd04.wav */; };
+		BE664706142300970041A52A /* mbp01.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646F9142300970041A52A /* mbp01.wav */; };
+		BE664707142300970041A52A /* mtg.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646FA142300970041A52A /* mtg.wav */; };
+		BE664708142300970041A52A /* windows.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE6646FB142300970041A52A /* windows.wav */; };
+		BE66470B142300AF0041A52A /* Sounds.plist in Resources */ = {isa = PBXBuildFile; fileRef = BE66470A142300AF0041A52A /* Sounds.plist */; };
+		BE74C49E141FD66800268B71 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE74C49D141FD66800268B71 /* Cocoa.framework */; };
+		BE74C4A8141FD66800268B71 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BE74C4A6141FD66800268B71 /* InfoPlist.strings */; };
+		BE74C4AA141FD66800268B71 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BE74C4A9141FD66800268B71 /* main.m */; };
+		BE74C4AE141FD66800268B71 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = BE74C4AC141FD66800268B71 /* Credits.rtf */; };
+		BE74C4B1141FD66800268B71 /* MacBookDoyaAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BE74C4B0141FD66800268B71 /* MacBookDoyaAppDelegate.m */; };
+		BE74C4B4141FD66900268B71 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = BE74C4B2141FD66900268B71 /* MainMenu.xib */; };
+		BE74C4BC141FD73F00268B71 /* LaunchAtLoginController.m in Sources */ = {isa = PBXBuildFile; fileRef = BE74C4BB141FD73F00268B71 /* LaunchAtLoginController.m */; };
+		BE74C4C2141FD79600268B71 /* Icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = BE74C4C1141FD79600268B71 /* Icon.icns */; };
+		BE74C4C4141FD7B100268B71 /* doya.wav in Resources */ = {isa = PBXBuildFile; fileRef = BE74C4C3141FD7B000268B71 /* doya.wav */; };
+		BE74C4C6141FD7C500268B71 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE74C4C5141FD7C500268B71 /* IOKit.framework */; };
+		BE74C4C8141FD7CD00268B71 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE74C4C7141FD7CD00268B71 /* CoreFoundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BE6646EF142300970041A52A /* doya01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = doya01.wav; sourceTree = "<group>"; };
+		BE6646F0142300970041A52A /* doya02.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = doya02.wav; sourceTree = "<group>"; };
+		BE6646F1142300970041A52A /* doya03.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = doya03.wav; sourceTree = "<group>"; };
+		BE6646F2142300970041A52A /* jouho.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = jouho.wav; sourceTree = "<group>"; };
+		BE6646F3142300970041A52A /* mba01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mba01.wav; sourceTree = "<group>"; };
+		BE6646F4142300970041A52A /* mba02.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mba02.wav; sourceTree = "<group>"; };
+		BE6646F5142300970041A52A /* mbd01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mbd01.wav; sourceTree = "<group>"; };
+		BE6646F6142300970041A52A /* mbd02.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mbd02.wav; sourceTree = "<group>"; };
+		BE6646F7142300970041A52A /* mbd03.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mbd03.wav; sourceTree = "<group>"; };
+		BE6646F8142300970041A52A /* mbd04.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mbd04.wav; sourceTree = "<group>"; };
+		BE6646F9142300970041A52A /* mbp01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mbp01.wav; sourceTree = "<group>"; };
+		BE6646FA142300970041A52A /* mtg.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = mtg.wav; sourceTree = "<group>"; };
+		BE6646FB142300970041A52A /* windows.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = windows.wav; sourceTree = "<group>"; };
+		BE66470A142300AF0041A52A /* Sounds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sounds.plist; sourceTree = "<group>"; };
+		BE74C499141FD66800268B71 /* MacBookDoya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacBookDoya.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE74C49D141FD66800268B71 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		BE74C4A0141FD66800268B71 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		BE74C4A1141FD66800268B71 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		BE74C4A2141FD66800268B71 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		BE74C4A5141FD66800268B71 /* MacBookDoya-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MacBookDoya-Info.plist"; sourceTree = "<group>"; };
+		BE74C4A7141FD66800268B71 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		BE74C4A9141FD66800268B71 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BE74C4AB141FD66800268B71 /* MacBookDoya-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MacBookDoya-Prefix.pch"; sourceTree = "<group>"; };
+		BE74C4AD141FD66800268B71 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		BE74C4AF141FD66800268B71 /* MacBookDoyaAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MacBookDoyaAppDelegate.h; sourceTree = "<group>"; };
+		BE74C4B0141FD66800268B71 /* MacBookDoyaAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MacBookDoyaAppDelegate.m; sourceTree = "<group>"; };
+		BE74C4B3141FD66900268B71 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		BE74C4BA141FD73300268B71 /* LaunchAtLoginController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LaunchAtLoginController.h; sourceTree = "<group>"; };
+		BE74C4BB141FD73F00268B71 /* LaunchAtLoginController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LaunchAtLoginController.m; sourceTree = "<group>"; };
+		BE74C4C1141FD79600268B71 /* Icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Icon.icns; sourceTree = "<group>"; };
+		BE74C4C3141FD7B000268B71 /* doya.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = doya.wav; path = MacBookDoya/doya.wav; sourceTree = SOURCE_ROOT; };
+		BE74C4C5141FD7C500268B71 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		BE74C4C7141FD7CD00268B71 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BE74C496141FD66800268B71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE74C4C8141FD7CD00268B71 /* CoreFoundation.framework in Frameworks */,
+				BE74C4C6141FD7C500268B71 /* IOKit.framework in Frameworks */,
+				BE74C49E141FD66800268B71 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BE6646EE142300970041A52A /* doya */ = {
+			isa = PBXGroup;
+			children = (
+				BE74C4C3141FD7B000268B71 /* doya.wav */,
+				BE6646EF142300970041A52A /* doya01.wav */,
+				BE6646F0142300970041A52A /* doya02.wav */,
+				BE6646F1142300970041A52A /* doya03.wav */,
+				BE6646F2142300970041A52A /* jouho.wav */,
+				BE6646F3142300970041A52A /* mba01.wav */,
+				BE6646F4142300970041A52A /* mba02.wav */,
+				BE6646F5142300970041A52A /* mbd01.wav */,
+				BE6646F6142300970041A52A /* mbd02.wav */,
+				BE6646F7142300970041A52A /* mbd03.wav */,
+				BE6646F8142300970041A52A /* mbd04.wav */,
+				BE6646F9142300970041A52A /* mbp01.wav */,
+				BE6646FA142300970041A52A /* mtg.wav */,
+				BE6646FB142300970041A52A /* windows.wav */,
+			);
+			path = doya;
+			sourceTree = "<group>";
+		};
+		BE74C48E141FD66800268B71 = {
+			isa = PBXGroup;
+			children = (
+				BE74C4C1141FD79600268B71 /* Icon.icns */,
+				BE74C4A3141FD66800268B71 /* MacBookDoya */,
+				BE74C49C141FD66800268B71 /* Frameworks */,
+				BE74C49A141FD66800268B71 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BE74C49A141FD66800268B71 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BE74C499141FD66800268B71 /* MacBookDoya.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BE74C49C141FD66800268B71 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BE74C4C7141FD7CD00268B71 /* CoreFoundation.framework */,
+				BE74C4C5141FD7C500268B71 /* IOKit.framework */,
+				BE74C49D141FD66800268B71 /* Cocoa.framework */,
+				BE74C49F141FD66800268B71 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BE74C49F141FD66800268B71 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BE74C4A0141FD66800268B71 /* AppKit.framework */,
+				BE74C4A1141FD66800268B71 /* CoreData.framework */,
+				BE74C4A2141FD66800268B71 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		BE74C4A3141FD66800268B71 /* MacBookDoya */ = {
+			isa = PBXGroup;
+			children = (
+				BE74C4AF141FD66800268B71 /* MacBookDoyaAppDelegate.h */,
+				BE74C4B0141FD66800268B71 /* MacBookDoyaAppDelegate.m */,
+				BE74C4B2141FD66900268B71 /* MainMenu.xib */,
+				BE74C4BA141FD73300268B71 /* LaunchAtLoginController.h */,
+				BE74C4BB141FD73F00268B71 /* LaunchAtLoginController.m */,
+				BE74C4A4141FD66800268B71 /* Supporting Files */,
+			);
+			path = MacBookDoya;
+			sourceTree = "<group>";
+		};
+		BE74C4A4141FD66800268B71 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BE6646EE142300970041A52A /* doya */,
+				BE74C4A5141FD66800268B71 /* MacBookDoya-Info.plist */,
+				BE74C4A6141FD66800268B71 /* InfoPlist.strings */,
+				BE74C4A9141FD66800268B71 /* main.m */,
+				BE74C4AB141FD66800268B71 /* MacBookDoya-Prefix.pch */,
+				BE74C4AC141FD66800268B71 /* Credits.rtf */,
+				BE66470A142300AF0041A52A /* Sounds.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BE74C498141FD66800268B71 /* MacBookDoya */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BE74C4B7141FD66900268B71 /* Build configuration list for PBXNativeTarget "MacBookDoya" */;
+			buildPhases = (
+				BE74C495141FD66800268B71 /* Sources */,
+				BE74C496141FD66800268B71 /* Frameworks */,
+				BE74C497141FD66800268B71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MacBookDoya;
+			productName = MacBookDoya;
+			productReference = BE74C499141FD66800268B71 /* MacBookDoya.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BE74C490141FD66800268B71 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "UNIPRO Inc.";
+			};
+			buildConfigurationList = BE74C493141FD66800268B71 /* Build configuration list for PBXProject "MacBookDoya" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BE74C48E141FD66800268B71;
+			productRefGroup = BE74C49A141FD66800268B71 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BE74C498141FD66800268B71 /* MacBookDoya */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BE74C497141FD66800268B71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE74C4A8141FD66800268B71 /* InfoPlist.strings in Resources */,
+				BE74C4AE141FD66800268B71 /* Credits.rtf in Resources */,
+				BE74C4B4141FD66900268B71 /* MainMenu.xib in Resources */,
+				BE74C4C2141FD79600268B71 /* Icon.icns in Resources */,
+				BE74C4C4141FD7B100268B71 /* doya.wav in Resources */,
+				BE6646FC142300970041A52A /* doya01.wav in Resources */,
+				BE6646FD142300970041A52A /* doya02.wav in Resources */,
+				BE6646FE142300970041A52A /* doya03.wav in Resources */,
+				BE6646FF142300970041A52A /* jouho.wav in Resources */,
+				BE664700142300970041A52A /* mba01.wav in Resources */,
+				BE664701142300970041A52A /* mba02.wav in Resources */,
+				BE664702142300970041A52A /* mbd01.wav in Resources */,
+				BE664703142300970041A52A /* mbd02.wav in Resources */,
+				BE664704142300970041A52A /* mbd03.wav in Resources */,
+				BE664705142300970041A52A /* mbd04.wav in Resources */,
+				BE664706142300970041A52A /* mbp01.wav in Resources */,
+				BE664707142300970041A52A /* mtg.wav in Resources */,
+				BE664708142300970041A52A /* windows.wav in Resources */,
+				BE66470B142300AF0041A52A /* Sounds.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BE74C495141FD66800268B71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE74C4AA141FD66800268B71 /* main.m in Sources */,
+				BE74C4B1141FD66800268B71 /* MacBookDoyaAppDelegate.m in Sources */,
+				BE74C4BC141FD73F00268B71 /* LaunchAtLoginController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		BE74C4A6141FD66800268B71 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BE74C4A7141FD66800268B71 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		BE74C4AC141FD66800268B71 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BE74C4AD141FD66800268B71 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		BE74C4B2141FD66900268B71 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BE74C4B3141FD66900268B71 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BE74C4B5141FD66900268B71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		BE74C4B6141FD66900268B71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		BE74C4B8141FD66900268B71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MacBookDoya/MacBookDoya-Prefix.pch";
+				INFOPLIST_FILE = "MacBookDoya/MacBookDoya-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		BE74C4B9141FD66900268B71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MacBookDoya/MacBookDoya-Prefix.pch";
+				INFOPLIST_FILE = "MacBookDoya/MacBookDoya-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BE74C493141FD66800268B71 /* Build configuration list for PBXProject "MacBookDoya" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE74C4B5141FD66900268B71 /* Debug */,
+				BE74C4B6141FD66900268B71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BE74C4B7141FD66900268B71 /* Build configuration list for PBXNativeTarget "MacBookDoya" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE74C4B8141FD66900268B71 /* Debug */,
+				BE74C4B9141FD66900268B71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BE74C490141FD66800268B71 /* Project object */;
+}
