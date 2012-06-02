@@ -14,7 +14,6 @@
     NSStatusItem *sbItem;
     BOOL isRunning;  
     NSArray *sounds;
-    IONotificationPortRef	notificationPort;
 }
 
 @property (assign) IBOutlet NSWindow *window;
