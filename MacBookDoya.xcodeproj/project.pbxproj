@@ -65,7 +65,7 @@
 		BE74C4BA141FD73300268B71 /* LaunchAtLoginController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LaunchAtLoginController.h; sourceTree = "<group>"; };
 		BE74C4BB141FD73F00268B71 /* LaunchAtLoginController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LaunchAtLoginController.m; sourceTree = "<group>"; };
 		BE74C4C1141FD79600268B71 /* Icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Icon.icns; sourceTree = "<group>"; };
-		BE74C4C3141FD7B000268B71 /* doya.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = doya.wav; path = MacBookDoya/doya.wav; sourceTree = SOURCE_ROOT; };
+		BE74C4C3141FD7B000268B71 /* doya.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = doya.wav; path = MacBookDoya/doya/doya.wav; sourceTree = SOURCE_ROOT; };
 		BE74C4C5141FD7C500268B71 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
 		BE74C4C7141FD7CD00268B71 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
