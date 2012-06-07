@@ -1,4 +1,4 @@
 MacBookDoya
 ===========
 
-For all MacBook users in Starb*cks Coffee and showing off their productivity!
+For all MacBook users in Starb*cks Coffee showing off their productivity!
