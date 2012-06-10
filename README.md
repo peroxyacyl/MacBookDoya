@@ -14,3 +14,7 @@ For all MacBook users in Starb*cks Coffee showing off their creativity!
 ##How to use
 
 * 起動後、右上のタブバーアイコンからどうぞ
+
+##Note
+
+* 音声ファイルは常時募集中です。
